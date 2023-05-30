@@ -1,0 +1,22 @@
+{
+  "name": "three.js-typescript-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hadelnasr/threejs-ts-tutorial.git"
+  },
+  "author": "haytham_einshams@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadelnasr/threejs-ts-tutorial/issues"
+  },
+  "homepage": "https://github.com/hadelnasr/threejs-ts-tutorial#readme",
+  "devDependencies": {
+    "three": "^0.152.2"
+  }
+}
